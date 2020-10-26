@@ -27,7 +27,9 @@
 * [Introdução](#Introdução)
   * []()
 * [Regra de Negócio](#Regra-de-negócio)
-* []()  
+  * []()
+* []()
+  * []()
   
 ## Introdução
 
@@ -35,6 +37,17 @@
 
 ## Regra de Negócio
 
+> asdasd
+
+<!-- COMO O SITE FUNCIONA ? 
+     API's 
+     Responsividade
+     Serviços de Hospedagem
+     stylesheet and js
+     SEO basics (resultados de mecanismos de busca online)
+     banco de dados e qual
+     acessibilidade
+-->
 
   # Contribuidores
 * Gabriel Fernandes Lemos
