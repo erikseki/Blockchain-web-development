@@ -28,12 +28,8 @@
   * pp
 * Regra de negócio
   
-  ## Introdução 
   
-  > assadasd
-  
-  
-<h2 align="center"> Introdução </h2>
+## <h2 align="center"> Introdução </h2>
 
 > asdasdasd
 
