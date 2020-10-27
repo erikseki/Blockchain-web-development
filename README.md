@@ -1,6 +1,7 @@
 <!-- Estrutura do Header README.md-->
 <!--banner-->
-![bannerdevwebblockchain2](https://user-images.githubusercontent.com/56083781/97207608-fce0f080-1798-11eb-8d46-e244c560f91e.png)
+
+![MARKETING PESSOAL](https://user-images.githubusercontent.com/56083781/97313406-556dc780-1845-11eb-81b9-92d8bcb68e40.gif)
 
 <!--icones "linkados" -->
 [![](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)]
