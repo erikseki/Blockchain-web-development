@@ -35,17 +35,25 @@
 * [Introdução](#Introdução)
   * []()
 * [Regra de Negócio](#Regra-de-negócio)
-  * []()
-* []()
+  * [Serviço de Hospedagem](#Serviço-de-Hospedagem)
+* [Banco de Dados](#Banco-de-Dados)
   * []()
   
 ## Introdução
 
-> asdasdasd
+> asdasd
 
 ## Regra de Negócio
 
 > asdasd
+
+## Serviço de Hospedagem
+
+> asdasds
+
+## Banco de Dados
+
+> asdasds
 
 <!-- COMO O SITE FUNCIONA ? 
      API's 
@@ -63,3 +71,13 @@
 * Erik Hideyuki Yoshimoto Seki
 * Paulo Rogério R. Gomes Junior
 * Gabriel Franco Garcia Rodrigues de Paula
+
+  # Pesquisas 
+* [Github]()
+* [Desenvolvimento web]()
+* [o que é Hosting ?]()
+* [Como criar seu site]()
+* [Linguagem de programação]()
+* [Roadmap front-end](https://roadmap.sh/frontend)
+* [Banco de dados]()
+
