@@ -73,11 +73,10 @@
 * Gabriel Franco Garcia Rodrigues de Paula
 
 ## Pesquisas 
-* [Github]()
-* [Desenvolvimento web]()
-* [o que é Hosting ?]()
-* [Como criar seu site]()
-* [Linguagem de programação]()
+* [Github](https://rockcontent.com/br/blog/o-que-e-github/)
+* [Desenvolvimento web](https://www.ironhack.com/br/desenvolvimento-web/desenvolvimento-web-guia-do-profissional)
+* [o que é Hosting ?](https://www.woosync.io/pt/que-es-el-hosting-o-alojamiento-web/)
+* [Linguagem de programação](https://universidadedatecnologia.com.br/o-que-e-linguagem-de-programacao/)
 * [Roadmap front-end](https://roadmap.sh/frontend)
-* [Banco de dados]()
+* [Banco de dados](https://www.devmedia.com.br/gerenciamento-de-banco-de-dados-analise-comparativa-de-sgbd-s/30788)
 
