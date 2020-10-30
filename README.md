@@ -65,14 +65,14 @@
      acessibilidade
 -->
 
-# Contribuidores
+## Contribuidores
 * Gabriel Fernandes Lemos
 * Matheus Nunes Nepomuceno
 * Erik Hideyuki Yoshimoto Seki
 * Paulo Rogério R. Gomes Junior
 * Gabriel Franco Garcia Rodrigues de Paula
 
-# Pesquisas 
+## Pesquisas 
 * [Github]()
 * [Desenvolvimento web]()
 * [o que é Hosting ?]()
