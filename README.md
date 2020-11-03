@@ -33,7 +33,7 @@
 <h2>Conteúdos</h2>
 
 * [Introdução](#Introdução)
-  * []()
+  * [Requisitos](#Requisitos)
 * [Regra de Negócio](#Regra-de-negócio)
   * [Serviço de Hospedagem](#Serviço-de-Hospedagem)
 * [Banco de Dados](#Banco-de-Dados)
@@ -41,7 +41,11 @@
   
 ## Introdução
 
-> asdasd
+> Com o grande crescimento tecnológico, a Instituição UNIP (Universidade Paulista) achou viável declarar um Projeto Integrado Multidisciplinar com o tema "Gerenciamento de Blockchain" para aqueles que estão se formando em desenvolvimento de sistemas, entretanto, não satisfeito com a criação do sistema em Desktop, será necessário desenvolver um site (web) comercial sobre os nossos serviços e um aplicativo mobile informando nossas atividades e conteúdos relacionadas aos valores de criptomoedas.   
+
+### Requisitos
+
+> Analisando o objetivo do projeto, é necessário que o grupo esteja discutindo sobre as melhores formas de viabilizar as informações propostas e que atenda aos mínimos dos requisitos. Dito isso, parte-se de várias peças para se tratar os requisitos até chegar a uma estrutura do escopo; levantamento dos requisitos, verificação dos requisitos e implantação.
 
 ## Regra de Negócio
 
@@ -80,5 +84,5 @@
 * [Roadmap front-end](https://roadmap.sh/frontend)
 * [Banco de dados](https://www.devmedia.com.br/gerenciamento-de-banco-de-dados-analise-comparativa-de-sgbd-s/30788)
 
-<b>Para mais informações entre no nosso [site]() e contate a nossa equipe</b>
+<b>Para mais informações entre no nosso [site]() e contate a nossa equipe.</b>
 
