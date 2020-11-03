@@ -49,7 +49,7 @@
 
 ## Serviço de Hospedagem
 
-> asdasds
+> Serviço de Hospedagem nada mais é do que um serviço que possibilita a pessoas ou empresas com sistemas online a guardar páginas, arquivos, informações, imagens, vídeo, ou qualquer conteúdo acessível por Web. Portanto, para melhor desempenho, adquirimos um domínio e o Smaterasp.net como serviço e configuramos o DNS para melhor acessibilidade do site com o objetivo de disponibilizar conteúdo comercial para usuário e clientes que querem usufruir do conteúdo e dos nossos serviços da empresa. 
 
 ## Banco de Dados
 
@@ -79,4 +79,6 @@
 * [Linguagem de programação](https://universidadedatecnologia.com.br/o-que-e-linguagem-de-programacao/)
 * [Roadmap front-end](https://roadmap.sh/frontend)
 * [Banco de dados](https://www.devmedia.com.br/gerenciamento-de-banco-de-dados-analise-comparativa-de-sgbd-s/30788)
+
+<b>Para mais informações entre no nosso [site]() e contate a nossa equipe</b>
 
