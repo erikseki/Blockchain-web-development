@@ -33,7 +33,7 @@
 <h2>Conteúdos</h2>
 
 * [Introdução](#Introdução)
-  * []()
+  * [Requisitos](#Requisitos)
 * [Regra de Negócio](#Regra-de-negócio)
   * [Serviço de Hospedagem](#Serviço-de-Hospedagem)
 * [Banco de Dados](#Banco-de-Dados)
@@ -41,7 +41,11 @@
   
 ## Introdução
 
-> asdasd
+> Com o grande crescimento tecnológico, a Instituição UNIP (Universidade Paulista) achou viável declarar um Projeto Integrado Multidisciplinar com o tema "Gerenciamento de Blockchain" para aqueles que estão se formando em desenvolvimento de sistemas, entretanto, não satisfeito com a criação do sistema em Desktop, será necessário desenvolver um site (web) comercial sobre os nossos serviços e um aplicativo mobile informando nossas atividades e conteúdos relacionadas aos valores de criptomoedas.   
+
+### Requisitos
+
+> Analisando o objetivo do projeto, é necessário que o grupo esteja discutindo sobre as melhores formas de viabilizar as informações propostas e que atenda aos mínimos dos requisitos. Dito isso, parte-se de várias peças para se tratar os requisitos até chegar a uma estrutura do escopo; levantamento dos requisitos, verificação dos requisitos e implantação.
 
 ## Regra de Negócio
 
@@ -49,7 +53,7 @@
 
 ## Serviço de Hospedagem
 
-> asdasds
+> Serviço de Hospedagem nada mais é do que um serviço que possibilita a pessoas ou empresas com sistemas online a guardar páginas, arquivos, informações, imagens, vídeo, ou qualquer conteúdo acessível por Web. Portanto, para melhor desempenho, adquirimos um domínio e o Smaterasp.net como serviço e configuramos o DNS para melhor acessibilidade do site com o objetivo de disponibilizar conteúdo comercial para usuário e clientes que querem usufruir do conteúdo e dos nossos serviços da empresa. 
 
 ## Banco de Dados
 
@@ -65,21 +69,24 @@
      acessibilidade
 -->
 
-# Contribuidores
+## Contribuidores
 * Gabriel Fernandes Lemos
 * Matheus Nunes Nepomuceno
 * Erik Hideyuki Yoshimoto Seki
 * Paulo Rogério R. Gomes Junior
 * Gabriel Franco Garcia Rodrigues de Paula
 
-# Pesquisas 
-* [Github]()
-* [Desenvolvimento web]()
-* [o que é Hosting ?]()
-* [Como criar seu site]()
-* [Linguagem de programação]()
+## Pesquisas 
+* [Github](https://rockcontent.com/br/blog/o-que-e-github/)
+* [Desenvolvimento web](https://www.ironhack.com/br/desenvolvimento-web/desenvolvimento-web-guia-do-profissional)
+* [o que é Hosting ?](https://www.woosync.io/pt/que-es-el-hosting-o-alojamiento-web/)
+* [Linguagem de programação](https://universidadedatecnologia.com.br/o-que-e-linguagem-de-programacao/)
 * [Roadmap front-end](https://roadmap.sh/frontend)
-* [Banco de dados]()
+* [Banco de dados](https://www.devmedia.com.br/gerenciamento-de-banco-de-dados-analise-comparativa-de-sgbd-s/30788)
+
+<br/>
+
+<b>Para mais informações entre no nosso [site]() e contate a nossa equipe.</b>
 
 ## icones 
 
