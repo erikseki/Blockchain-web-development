@@ -81,3 +81,10 @@
 * [Roadmap front-end](https://roadmap.sh/frontend)
 * [Banco de dados]()
 
+## icones 
+
+:package:nova funcionalidade 
+:up:atualização 
+:beatle:correção de bug 
+:checkered_flag:release 
+
