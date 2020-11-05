@@ -53,7 +53,7 @@
 
 ## Serviço de Hospedagem
 
-> Serviço de Hospedagem nada mais é do que um serviço que possibilita a pessoas ou empresas com sistemas online a guardar páginas, arquivos, informações, imagens, vídeo, ou qualquer conteúdo acessível por Web. Portanto, para melhor desempenho, adquirimos um domínio e o Smaterasp.net como serviço e configuramos o DNS para melhor acessibilidade do site com o objetivo de disponibilizar conteúdo comercial para usuário e clientes que querem usufruir do conteúdo e dos nossos serviços da empresa. 
+> Serviço de Hospedagem nada mais é do que um serviço que possibilita a pessoas ou empresas com sistemas online a guardar páginas, arquivos, informações, imagens, vídeo, ou qualquer conteúdo acessível por Web. Portanto, para melhor desempenho, adquirimos um domínio e o Smaterasp.net como serviço e configuramos o DNS para melhor acessibilidade do site com o objetivo de disponibilizar conteúdo comercial para usuário e clientes que querem usufruir nossas informações e nossos serviços da empresa. 
 
 ## Banco de Dados
 
