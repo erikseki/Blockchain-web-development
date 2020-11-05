@@ -57,7 +57,7 @@
 
 ## Banco de Dados
 
-> asdasds
+> Sql Server Management Studio / FireBase 
 
 <!-- COMO O SITE FUNCIONA ? 
      API's 
