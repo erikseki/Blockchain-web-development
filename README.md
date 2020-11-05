@@ -88,7 +88,7 @@
 
 <b>Para mais informações entre no nosso [site]() e contate a nossa equipe.</b>
 
-## icones 
+## Icones 
 
 :package:nova funcionalidade 
 :up:atualização 
