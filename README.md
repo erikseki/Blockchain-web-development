@@ -8,11 +8,12 @@
 ![MARKETING PESSOAL](https://user-images.githubusercontent.com/56083781/97313406-556dc780-1845-11eb-81b9-92d8bcb68e40.gif)
 
 <!--icones "linkados" -->
-![buttonAPP2](https://user-images.githubusercontent.com/56083781/98311826-1e1eb980-1faf-11eb-9497-6599bcdeda3a.png)
+
+![buttonAPP](https://user-images.githubusercontent.com/56083781/98311881-3b538800-1faf-11eb-949d-37243c59d363.png)
+![Web](https://user-images.githubusercontent.com/56083781/98312438-7d30fe00-1fb0-11eb-92cd-307f02d4693b.png)
+![Documentbtn](https://user-images.githubusercontent.com/56083781/98312459-8621cf80-1fb0-11eb-9148-ea3deeda0060.png)
 ![](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)
-![](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)
-![](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)
-![](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)
+
 
 
 <div>
