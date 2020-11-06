@@ -90,15 +90,15 @@
 
 ## Icones 
 
-<<<<<<< HEAD
+
 - :package: nova funcionalidade 
 - :up: atualização 
 - :beatle: correção de bug 
 - :checkered_flag: release 
-=======
+
 :package:nova funcionalidade 
 :up:atualização 
 :beetle:correção de bug 
 :checkered_flag:release 
->>>>>>> 9fb2b98793e7d38c2c892f85df39e3be61133381
+
 
