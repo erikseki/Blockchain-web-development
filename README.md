@@ -14,12 +14,11 @@
 ![Documentbtn](https://user-images.githubusercontent.com/56083781/98312459-8621cf80-1fb0-11eb-9148-ea3deeda0060.png)
 [![](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
 
+<!-- icones de observação -->
 :package: Nova funcionalidade 
 :up: Atualização 
 :beetle: Correção de bug 
 :checkered_flag: Release 
-
-
 
 <div>
   <div>
